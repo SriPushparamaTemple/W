@@ -239,10 +239,9 @@ header {
 }
 
 .Thero p {
-    text-align: justify;
     padding-top: 10px;
     margin-top: 10px;
-    font-size: 1.5em; /* Increased font size */
+    font-size: 15px; /* Increased font size */
     
 }
 
@@ -256,8 +255,7 @@ header {
     margin-right: 20px; /* Added */
 }
 .Thero li{
-    text-align: justify;
-    font-size: 20px;
+    font-size: 12pxpx;
 }
 
 /* Footer Styles */
